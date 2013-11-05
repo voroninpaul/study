@@ -21,6 +21,8 @@ Task
  4. In list of requests there are a request for main jquery logo and
     requests for stylesheets. Setup a autoresponder and change default
     response to your own logo and styles.
+ 5. Git hub registration
+
 
 
   [1]: https://mdn.mozillademos.org/files/4291/client-server.png
